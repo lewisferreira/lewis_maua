@@ -11,3 +11,6 @@ if i != 0:
 else:
 	print("nao foi digitado nenhuma nota...")
 input()
+
+# Nota: 1.0
+# Comentario: Excelente otimizacao

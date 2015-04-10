@@ -10,3 +10,6 @@ def checa_par(x):
 a = entra()
 checa_par(a)
 input()
+
+# Nota: 1.0
+# Comentario: Novamente bom uso de funcoes, mas input() final desnecessario

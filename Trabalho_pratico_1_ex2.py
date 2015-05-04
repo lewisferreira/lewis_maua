@@ -23,3 +23,6 @@ resultado = dist_n_pts(pts)
 print("A maior distancia e {0}, entre os ponto {1} e {2}".format(resultado[0],resultado[1],resultado[2]))
 
 input()
+
+# Nota: 1.0
+# Great job!

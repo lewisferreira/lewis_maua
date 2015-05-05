@@ -22,3 +22,6 @@ else:
 	print("Os catetos {0} e {1} nao formam um triangulo retangulo com hipotenusa {2}".format(a,b,c))
 
 input()
+
+# Nota: 1.0
+# Great job!

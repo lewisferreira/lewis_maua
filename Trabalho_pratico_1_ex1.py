@@ -11,3 +11,6 @@ print("x1 = {0}\ty1= {1}\nx2 = {2}\ty2 = {3}\ndistancia = {4}".\
 	format( p1[0], p1[1], p2[0], p2[1], distancia(p1,p2) ))
 
 input()
+
+# Nota: 1.0
+# Great job!

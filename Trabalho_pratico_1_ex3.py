@@ -17,3 +17,6 @@ pol(p1)
 pol(p2)
 
 input()
+
+# Nota: 1.0
+# Great job!
